@@ -17,9 +17,9 @@ iex> DistsysTest.start()
 ```
 
 ## TODO
-[x] 1 GenServer to 1 GenServer in one Node
-[ ] Printers with Poolboy(local) in single server
-[ ] Printers with Poolboy(global) in cluster
-[ ] Use Phoenix Presence to share?
-[ ] Add one DB
-[ ] Add MultiMaster DB for each Node. Mnesia?
+- [x] 1 GenServer to 1 GenServer in one Node
+- [ ] Printers with Poolboy(local) in single server
+- [ ] Printers with Poolboy(global) in cluster
+- [ ] Use Phoenix Presence to share?
+- [ ] Add one DB
+- [ ] Add MultiMaster DB for each Node. Mnesia?
